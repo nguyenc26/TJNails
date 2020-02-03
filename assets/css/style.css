@@ -1,0 +1,14 @@
+.masthead {
+    height: 100vh;
+    min-height: 500px;
+    background-image: url('../../assets/images/grayscale-photography-of-trees-1529881.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+    font-size: large;
+  }
+
+.table {
+    color: white;
+}
